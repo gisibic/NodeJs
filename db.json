@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 3
+    },
+    {
+      "name": "Sản phẩm 5",
+      "username": "139.00",
+      "email": "ngocbihc@gmail.com",
+      "phone": "123456",
+      "id": 5
+    },
+    {
+      "name": "Sản phẩm 9",
+      "username": "139.00",
+      "email": "ngocbihc@gmail.com",
+      "phone": "123456",
+      "id": 9
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "bic update",
+      "username": "139.00",
+      "email": "ngocbihc@gmail.com",
+      "phone": "123456",
+      "id": 11
+    },
+    {
+      "name": "bic create",
+      "username": "139.00",
+      "email": "ngocbihc@gmail.com",
+      "phone": "123456",
+      "id": 12
+    },
+    {
+      "name": "bic create",
+      "username": "139.00",
+      "email": "ngocbihc@gmail.com",
+      "phone": "123456",
+      "id": 13
+    },
+    {
+      "name": "New User 2 update",
+      "username": "abcbb",
+      "email": "ngocbihc@gmail.com",
+      "phone": "123456",
+      "id": 15
+    },
+    {
+      "name": "New User 2 update",
+      "username": "abcbb",
+      "email": "ngocbihc@gmail.com",
+      "phone": "123456",
+      "id": 16
+    }
+  ]
+}
